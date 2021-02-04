@@ -1,5 +1,5 @@
 # Link to the Deployed Website
-[Click here](https://umarfoo.github.io/Belly_Button_Biodiversity_Plotly_JavaScript/) to see the deployed website.
+[Click here](https://medha795.github.io/PlotlyChallenge/) to see the deployed website.
 
 # JavaScript Plotly - Belly Button Biodiversity
 
